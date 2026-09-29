@@ -1,4 +1,6 @@
-    // const heading =React.createElement(
+   import React from 'react';
+   import ReactDOM from 'react-dom/client';
+   // const heading =React.createElement(
     //     'h1', {id: 'heading',xyz:"abc"}, 'Hello World');
     // console.log(heading);/
     const parent =React.createElement("div", {id: 'parent'},[

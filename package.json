@@ -1,0 +1,29 @@
+{
+  "name": "react-pratice",
+  "version": "1.0.0",
+  "description": "This is react project",
+  "keywords": [
+    "React"
+  ],
+  "homepage": "https://github.com/ManojManasseh12/React#readme",
+  "bugs": {
+    "url": "https://github.com/ManojManasseh12/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojManasseh12/React.git"
+  },
+  "license": "ISC",
+  "author": "Manoj-Manasseh",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
